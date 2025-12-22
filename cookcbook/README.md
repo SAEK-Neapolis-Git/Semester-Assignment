@@ -11,7 +11,7 @@
 
 Το project είναι ενδεικτικό και περιέχει:
 
-- κενό `recipes/` folder
+- `recipes/` folder που περιέχει ένα αρχείο 'example.py'
 - ένα `main.py`
 - βασικό skeleton για Python files
 
