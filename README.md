@@ -101,6 +101,7 @@ Add recipe + name
 ---
 
 ### Μέρος 8 – Merge conflicts (αν υπάρξουν)
+
 Αν το GitHub αναφέρει ότι το PR έχει conflicts:
     1. Τοπικά στον υπολογιστή:
         ◦ Μεταβείτε στο master
@@ -137,10 +138,13 @@ Resolve merge conflict in main.py
 
 ### Τι θα παραδώσετε
 Για την αξιολόγηση κάθε φοιτητής θα στείλει:
-    1. Link στο Pull Request.
-    2. Screenshot από conflict στο αρχείο (πριν/κατά την επίλυση).
-    3. Screenshot από commit history του branch (π.χ. git log --oneline ή από GitHub UI).
-    4. Μικρό κείμενο 3–5 προτάσεων με τίτλο:
+    -  Link στο Pull Request.
+    
+    -  Screenshot από conflict στο αρχείο (πριν/κατά την επίλυση).
+    
+    -  Screenshot από commit history του branch (π.χ. git log --oneline ή από GitHub UI).
+    
+    -  Μικρό κείμενο 3–5 προτάσεων με τίτλο:
        Τι έμαθα, τι με δυσκόλεψε, και τι μου άρεσε από το branch workflow και τα conflicts, και γενικά δουλεύωντας με το git και το Github.
 
 ---
