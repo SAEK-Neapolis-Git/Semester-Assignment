@@ -29,8 +29,10 @@
 - team-gamma-cookbook
 - team-delta-cookbook
 - team-epsilon-cookbook
+- team-zeta-cookbook
 
-Θα σας σταλούν τα links ξεχωριστά.
+
+Θα σας σταλεί η ομάδα σας ξεχωριστά, και αναλόγως θα εργαστείτε σε ένα από τα παραπάνω repo.
 
 ---
 
